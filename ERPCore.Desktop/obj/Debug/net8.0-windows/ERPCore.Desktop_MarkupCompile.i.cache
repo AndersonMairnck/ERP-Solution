@@ -1,0 +1,20 @@
+﻿ERPCore.Desktop
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Desktop\obj\Debug\net8.0-windows\
+ERPCore.Desktop
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Desktop\App.xaml
+61277226963
+
+151880580361
+2341684258101
+Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\PDVWindow.xaml;Views\ProductEditWindow.xaml;Views\ProductsWindow.xaml;Views\ReportsWindow.xaml;
+
+False
+

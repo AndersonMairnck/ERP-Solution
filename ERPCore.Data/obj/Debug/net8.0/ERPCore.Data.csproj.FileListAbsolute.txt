@@ -1,0 +1,15 @@
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\bin\Debug\net8.0\ERPCore.Data.deps.json
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\bin\Debug\net8.0\ERPCore.Data.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\bin\Debug\net8.0\ERPCore.Data.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\bin\Debug\net8.0\ERPCore.Models.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\bin\Debug\net8.0\ERPCore.Models.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.csproj.AssemblyReference.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.AssemblyInfoInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.AssemblyInfo.cs
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.csproj.CoreCompileInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore..9F9476F1.Up2Date
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\refint\ERPCore.Data.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ERPCore.Data.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Data\obj\Debug\net8.0\ref\ERPCore.Data.dll

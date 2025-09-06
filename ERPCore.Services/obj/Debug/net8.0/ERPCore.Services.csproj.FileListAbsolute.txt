@@ -1,0 +1,17 @@
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Services.deps.json
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Services.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Services.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Data.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Models.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Models.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\bin\Debug\net8.0\ERPCore.Data.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.csproj.AssemblyReference.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.AssemblyInfoInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.AssemblyInfo.cs
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.csproj.CoreCompileInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore..35B0EC4A.Up2Date
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\refint\ERPCore.Services.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ERPCore.Services.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Services\obj\Debug\net8.0\ref\ERPCore.Services.dll

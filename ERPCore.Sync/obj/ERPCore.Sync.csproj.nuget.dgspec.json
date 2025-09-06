@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Sync\\ERPCore.Sync.csproj": {}
+  },
+  "projects": {
+    "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\ERPCore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\ERPCore.Models.csproj",
+        "projectName": "ERPCore.Models",
+        "projectPath": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\ERPCore.Models.csproj",
+        "packagesPath": "C:\\Users\\Mairinck\\.nuget\\packages\\",
+        "outputPath": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mairinck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "D:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Sync\\ERPCore.Sync.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Sync\\ERPCore.Sync.csproj",
+        "projectName": "ERPCore.Sync",
+        "projectPath": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Sync\\ERPCore.Sync.csproj",
+        "packagesPath": "C:\\Users\\Mairinck\\.nuget\\packages\\",
+        "outputPath": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Sync\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mairinck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "D:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\ERPCore.Models.csproj": {
+                "projectPath": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\ERPCore.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

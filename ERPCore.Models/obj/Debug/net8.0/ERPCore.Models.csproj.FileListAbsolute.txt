@@ -1,0 +1,12 @@
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\bin\Debug\net8.0\ERPCore.Models.deps.json
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\bin\Debug\net8.0\ERPCore.Models.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\bin\Debug\net8.0\ERPCore.Models.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.csproj.AssemblyReference.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.AssemblyInfoInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.AssemblyInfo.cs
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.csproj.CoreCompileInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\refint\ERPCore.Models.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ERPCore.Models.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Models\obj\Debug\net8.0\ref\ERPCore.Models.dll

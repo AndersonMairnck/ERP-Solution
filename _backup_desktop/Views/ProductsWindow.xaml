@@ -1,0 +1,68 @@
+﻿<Window x:Class="ERPCore.Desktop.Views.ProductsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestão de Produtos" 
+        Height="600" 
+        Width="800"
+        WindowStartupLocation="CenterOwner"
+        Icon="📦">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Cabeçalho -->
+        <Border Grid.Row="0" Background="{StaticResource PrimaryBrush}" Padding="10">
+            <TextBlock Text="📦 Gestão de Produtos" 
+                     Foreground="White" 
+                     FontSize="18" 
+                     FontWeight="Bold"/>
+        </Border>
+
+        <!-- Barra de Ferramentas -->
+        <ToolBar Grid.Row="1" Margin="5">
+            <Button Content="➕ Novo" Click="AddButton_Click" Style="{StaticResource PrimaryButton}"/>
+            <Button Content="✏️ Editar" Click="EditButton_Click" Style="{StaticResource SecondaryButton}"/>
+            <Button Content="🗑️ Excluir" Click="DeleteButton_Click" Style="{StaticResource DangerButton}"/>
+            <Separator/>
+            <Button Content="🔄 Atualizar" Click="RefreshButton_Click"/>
+            <Separator/>
+            <TextBox x:Name="SearchTextBox" 
+                   Width="200" 
+                  
+                   TextChanged="SearchTextBox_TextChanged"/>
+        </ToolBar>
+
+        <!-- Grid de Produtos -->
+        <DataGrid x:Name="ProductsDataGrid"
+                Grid.Row="2"
+                Margin="5"
+                AutoGenerateColumns="False"
+                IsReadOnly="True"
+                SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Código" Binding="{Binding Code}" Width="80"/>
+                <DataGridTextColumn Header="Nome" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Descrição" Binding="{Binding Description}" Width="*"/>
+                <DataGridTextColumn Header="Preço Varejo" Binding="{Binding PriceRetail, StringFormat=C}" Width="100"/>
+                <DataGridTextColumn Header="Preço Atacado" Binding="{Binding PriceWholesale, StringFormat=C}" Width="100"/>
+                <DataGridTextColumn Header="Estoque" Binding="{Binding StockQuantity}" Width="60"/>
+                <DataGridCheckBoxColumn Header="Ativo" Binding="{Binding Active}" Width="50"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Rodapé -->
+        <StatusBar Grid.Row="3">
+            <StatusBarItem>
+                <TextBlock x:Name="StatusTextBlock" Text="Carregando produtos..."/>
+            </StatusBarItem>
+            <StatusBarItem HorizontalAlignment="Right">
+                <Button Content="Fechar" Click="CloseButton_Click" Margin="5,0"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

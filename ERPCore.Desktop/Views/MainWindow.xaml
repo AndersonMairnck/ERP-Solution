@@ -1,0 +1,36 @@
+﻿<Window x:Class="ERPCore.Desktop.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ERP Core - Sistema de Gestão" 
+        Height="600" 
+        Width="800"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Menu>
+            <MenuItem Header="Arquivo">
+                <MenuItem Header="Sair" Click="MenuItemExit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Cadastros">
+                <MenuItem Header="Produtos" Click="MenuItemProducts_Click"/>
+            </MenuItem>
+            <MenuItem Header="Financeiro">
+                <MenuItem Header="Contas Financeiras" Click="MenuItemAccounts_Click"/>
+                <MenuItem Header="Transações" Click="MenuItemTransactions_Click"/>
+                <MenuItem Header="Relatórios" Click="MenuItemReports_Click"/>
+            </MenuItem>
+            <MenuItem Header="Operações">
+                <MenuItem Header="PDV" Click="MenuItemPDV_Click"/>
+            </MenuItem>
+            <MenuItem Header="Relatórios">
+                <MenuItem Header="Gerar Relatórios" Click="MenuItemReports_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <StatusBar VerticalAlignment="Bottom">
+            <StatusBarItem>
+                <TextBlock Text="Sistema ERP Core - Pronto"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

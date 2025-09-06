@@ -1,0 +1,54 @@
+﻿<Window x:Class="ERPCore.Desktop.Views.ProductsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestão de Produtos" 
+        Height="600" 
+        Width="800"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Cabeçalho -->
+        <TextBlock Grid.Row="0" 
+                 Text="Gestão de Produtos" 
+                 FontSize="18" 
+                 FontWeight="Bold"
+                 Margin="10"
+                 HorizontalAlignment="Center"/>
+
+        <!-- Botões de Ação -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Novo" Width="60" Margin="0,0,5,0" Click="BtnNew_Click"/>
+            <Button Content="Editar" Width="60" Margin="0,0,5,0" Click="BtnEdit_Click"/>
+            <Button Content="Excluir" Width="60" Click="BtnDelete_Click"/>
+        </StackPanel>
+
+        <!-- Lista de Produtos -->
+        <DataGrid x:Name="GridProducts"
+                Grid.Row="1"
+                Margin="10"
+                AutoGenerateColumns="False"
+                IsReadOnly="True"
+                SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Código" Binding="{Binding Code}" Width="80"/>
+                <DataGridTextColumn Header="Nome" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Preço" Binding="{Binding PriceRetail, StringFormat=C}" Width="80"/>
+                <DataGridTextColumn Header="Estoque" Binding="{Binding StockQuantity}" Width="60"/>
+                <DataGridCheckBoxColumn Header="Ativo" Binding="{Binding Active}" Width="50"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Rodapé -->
+        <StatusBar Grid.Row="2">
+            <StatusBarItem>
+                <TextBlock x:Name="txtStatus" Text="Carregando produtos..."/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

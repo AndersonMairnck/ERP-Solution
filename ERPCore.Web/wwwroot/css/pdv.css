@@ -1,0 +1,126 @@
+﻿.pdv-container {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.sale-table {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.product-scanner {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.summary-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.payment-methods {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.payment-method-btn {
+    border: 2px solid #dee2e6;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    .payment-method-btn:hover {
+        border-color: #007bff;
+        background-color: #f8f9fa;
+    }
+
+    .payment-method-btn.active {
+        border-color: #007bff;
+        background-color: #007bff;
+        color: white;
+    }
+
+.quantity-controls {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.quantity-btn {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #dee2e6;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.quantity-display {
+    min-width: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Animações */
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.sale-item {
+    animation: slideIn 0.3s ease;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .pdv-container {
+        padding: 10px;
+    }
+
+    .payment-methods {
+        grid-template-columns: 1fr;
+    }
+
+    .summary-card {
+        margin-bottom: 15px;
+    }
+}
+
+/* Scroll personalizado */
+.sale-table::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sale-table::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 3px;
+}
+
+.sale-table::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 3px;
+}
+
+    .sale-table::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }

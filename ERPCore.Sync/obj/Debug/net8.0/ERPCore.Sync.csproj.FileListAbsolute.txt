@@ -1,0 +1,15 @@
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\bin\Debug\net8.0\ERPCore.Sync.deps.json
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\bin\Debug\net8.0\ERPCore.Sync.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\bin\Debug\net8.0\ERPCore.Sync.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\bin\Debug\net8.0\ERPCore.Models.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\bin\Debug\net8.0\ERPCore.Models.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.csproj.AssemblyReference.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.AssemblyInfoInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.AssemblyInfo.cs
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.csproj.CoreCompileInputs.cache
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore..32CABDB8.Up2Date
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\refint\ERPCore.Sync.dll
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ERPCore.Sync.pdb
+D:\Mairinck\1- Projetos\analisar projetos de estoques e clientes\ERP-Solution\ERPCore.Sync\obj\Debug\net8.0\ref\ERPCore.Sync.dll

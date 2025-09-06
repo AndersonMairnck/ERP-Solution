@@ -1,0 +1,100 @@
+﻿<Window x:Class="ERPCore.Desktop.Views.ProductEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Editar Produto" 
+        Height="450" 
+        Width="400"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Cabeçalho -->
+        <TextBlock x:Name="TitleText" 
+                 Grid.Row="0" 
+                 FontSize="16" 
+                 FontWeight="Bold"
+                 Margin="0,0,0,10"/>
+
+        <!-- Formulário -->
+        <StackPanel Grid.Row="1">
+            <Label Content="Código:"/>
+            <TextBox x:Name="CodeTextBox" 
+                   Text="{Binding CurrentProduct.Code, UpdateSourceTrigger=PropertyChanged}"
+                   Margin="0,0,0,10"/>
+
+            <Label Content="Nome:"/>
+            <TextBox x:Name="NameTextBox" 
+                   Text="{Binding CurrentProduct.Name, UpdateSourceTrigger=PropertyChanged}"
+                   Margin="0,0,0,10"/>
+
+            <Label Content="Descrição:"/>
+            <TextBox x:Name="DescriptionTextBox" 
+                   Text="{Binding CurrentProduct.Description, UpdateSourceTrigger=PropertyChanged}"
+                   AcceptsReturn="True"
+                   Height="60"
+                   Margin="0,0,0,10"/>
+
+            <Grid Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="0,0,5,0">
+                    <Label Content="Preço Varejo:"/>
+                    <TextBox x:Name="PriceRetailTextBox" 
+                           Text="{Binding CurrentProduct.PriceRetail, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                    <Label Content="Preço Atacado:"/>
+                    <TextBox x:Name="PriceWholesaleTextBox" 
+                           Text="{Binding CurrentProduct.PriceWholesale, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </Grid>
+
+            <Grid Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="0,0,5,0">
+                    <Label Content="Estoque:"/>
+                    <TextBox x:Name="StockQuantityTextBox" 
+                           Text="{Binding CurrentProduct.StockQuantity, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                    <Label Content="Estoque Mínimo:"/>
+                    <TextBox x:Name="MinimumStockTextBox" 
+                           Text="{Binding CurrentProduct.MinimumStock, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </Grid>
+
+            <CheckBox x:Name="ActiveCheckBox" 
+                    Content="Produto Ativo" 
+                    IsChecked="{Binding CurrentProduct.Active}"
+                    Margin="0,10,0,0"/>
+        </StackPanel>
+
+        <!-- Botões -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Cancelar" 
+                    Width="80" 
+                    Margin="0,0,10,0" 
+                    Click="CancelButton_Click"/>
+            <Button Content="Salvar" 
+                    Width="80" 
+                    Click="SaveButton_Click" 
+                    Background="#007bff" 
+                    Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>

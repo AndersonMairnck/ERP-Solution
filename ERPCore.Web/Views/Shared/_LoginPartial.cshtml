@@ -1,0 +1,32 @@
+﻿@using ERPCore.Services
+@using Microsoft.AspNetCore.Identity
+@inject IAuthService AuthService
+
+<ul class="navbar-nav">
+    @if (User.Identity.IsAuthenticated)
+    {
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-user-circle"></i> @User.Identity.Name
+            </a>
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#"><i class="fas fa-user"></i> Perfil</a></li>
+                <li><a class="dropdown-item" href="#"><i class="fas fa-cog"></i> Configurações</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li>
+                    <form asp-controller="Auth" asp-action="Logout" method="post" id="logoutForm">
+                        <button type="submit" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sair</button>
+                    </form>
+                </li>
+            </ul>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" asp-controller="Auth" asp-action="Login">
+                <i class="fas fa-sign-in-alt"></i> Entrar
+            </a>
+        </li>
+    }
+</ul>

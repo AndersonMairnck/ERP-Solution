@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|solutionrelative:erpcore.models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|solutionrelative:erpcore.models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\pdvwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\pdvwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93327881-3E46-41D9-B01C-107B982E4E5F}|ERPCore.API\\ERPCore.API.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.api\\controllers\\financialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93327881-3E46-41D9-B01C-107B982E4E5F}|ERPCore.API\\ERPCore.API.csproj|solutionrelative:erpcore.api\\controllers\\financialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B5F6C-4789-4AA0-A10D-0F4637DBA15B}|ERPCore.Services\\ERPCore.Services.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.services\\financialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B5F6C-4789-4AA0-A10D-0F4637DBA15B}|ERPCore.Services\\ERPCore.Services.csproj|solutionrelative:erpcore.services\\financialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B5F6C-4789-4AA0-A10D-0F4637DBA15B}|ERPCore.Services\\ERPCore.Services.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.services\\ifinancialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B5F6C-4789-4AA0-A10D-0F4637DBA15B}|ERPCore.Services\\ERPCore.Services.csproj|solutionrelative:erpcore.services\\ifinancialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA45AF6-8061-45D5-A401-3032F2F2798C}|ERPCore.Data\\ERPCore.Data.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA45AF6-8061-45D5-A401-3032F2F2798C}|ERPCore.Data\\ERPCore.Data.csproj|solutionrelative:erpcore.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|solutionrelative:erpcore.models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.models\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|solutionrelative:erpcore.models\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.models\\financialaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|solutionrelative:erpcore.models\\financialaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mairinck\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\erpcore.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\erpcore.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\pdvwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\pdvwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\productswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\productswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.desktop\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64C0B5E-AF87-4A32-889B-20CC26BFEE4F}|ERPCore.Desktop\\ERPCore.Desktop.csproj|solutionrelative:erpcore.desktop\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|d:\\mairinck\\1- projetos\\analisar projetos de estoques e clientes\\erp-solution\\erpcore.models\\inventorymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222A8F50-7B68-4A6E-9658-F7FDE6FDEDF3}|ERPCore.Models\\ERPCore.Models.csproj|solutionrelative:erpcore.models\\inventorymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T19:28:55.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\App.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\App.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\App.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:51:27.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PDVWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\PDVWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\PDVWindow.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\PDVWindow.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\PDVWindow.xaml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAApwIIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:02:17.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Services\\IApiService.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\IApiService.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:46:27.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\Sale.cs",
+              "RelativeDocumentMoniker": "ERPCore.Models\\Sale.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\Sale.cs",
+              "RelativeToolTip": "ERPCore.Models\\Sale.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:28:53.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\SaleItem.cs",
+              "RelativeDocumentMoniker": "ERPCore.Models\\SaleItem.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\SaleItem.cs",
+              "RelativeToolTip": "ERPCore.Models\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:57:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:29:53.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Services\\ApiService.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\ApiService.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Services\\ApiService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:47:01.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFinancialService.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Services\\IFinancialService.cs",
+              "RelativeDocumentMoniker": "ERPCore.Services\\IFinancialService.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Services\\IFinancialService.cs",
+              "RelativeToolTip": "ERPCore.Services\\IFinancialService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA5wEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:51:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ERPCore.Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ERPCore.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:51:06.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinancialService.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Services\\FinancialService.cs",
+              "RelativeDocumentMoniker": "ERPCore.Services\\FinancialService.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Services\\FinancialService.cs",
+              "RelativeToolTip": "ERPCore.Services\\FinancialService.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAkwMsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:52:21.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinancialController.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.API\\Controllers\\FinancialController.cs",
+              "RelativeDocumentMoniker": "ERPCore.API\\Controllers\\FinancialController.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.API\\Controllers\\FinancialController.cs",
+              "RelativeToolTip": "ERPCore.API\\Controllers\\FinancialController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:53:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ERPCore.Models\\Supplier.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\Supplier.cs",
+              "RelativeToolTip": "ERPCore.Models\\Supplier.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:50:12.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinancialTransaction.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\FinancialTransaction.cs",
+              "RelativeDocumentMoniker": "ERPCore.Models\\FinancialTransaction.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\FinancialTransaction.cs",
+              "RelativeToolTip": "ERPCore.Models\\FinancialTransaction.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:49:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FinancialAccount.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\FinancialAccount.cs",
+              "RelativeDocumentMoniker": "ERPCore.Models\\FinancialAccount.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\FinancialAccount.cs",
+              "RelativeToolTip": "ERPCore.Models\\FinancialAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:48:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Mairinck\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Mairinck\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [Somente Leitura]",
+              "ViewState": "AgIAABwAAAAAAAAAAAAhwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:47:30.393Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportsWindow.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ReportsWindow.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\ReportsWindow.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ReportsWindow.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\ReportsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T19:24:33.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Services\\ReportService.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\ReportService.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Services\\ReportService.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAkwF0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:23:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\App.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\App.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\App.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:51:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ReportsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\ReportsWindow.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ReportsWindow.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\ReportsWindow.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:24:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\IReportService.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Services\\IReportService.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Services\\IReportService.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Services\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:22:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ERPCore.Desktop.csproj",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\ERPCore.Desktop.csproj",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\ERPCore.Desktop.csproj",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\ERPCore.Desktop.csproj",
+              "RelativeToolTip": "ERPCore.Desktop\\ERPCore.Desktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T18:44:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\AssemblyInfo.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:12:38.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PDVWindow.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\PDVWindow.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\PDVWindow.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\PDVWindow.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\PDVWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T19:01:52.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductEditWindow.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductEditWindow.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\ProductEditWindow.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductEditWindow.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\ProductEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T19:00:48.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\ProductEditWindow.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductEditWindow.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\ProductEditWindow.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:01:09.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\ProductsWindow.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductsWindow.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\ProductsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:57:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsWindow.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductsWindow.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\ProductsWindow.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\ProductsWindow.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\ProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:56:36.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\LoginWindow.xaml",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:49:49.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ERPCore.Desktop\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Desktop\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ERPCore.Desktop\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:50:08.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InventoryMovement.cs",
+              "DocumentMoniker": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\InventoryMovement.cs",
+              "RelativeDocumentMoniker": "ERPCore.Models\\InventoryMovement.cs",
+              "ToolTip": "D:\\Mairinck\\1- Projetos\\analisar projetos de estoques e clientes\\ERP-Solution\\ERPCore.Models\\InventoryMovement.cs",
+              "RelativeToolTip": "ERPCore.Models\\InventoryMovement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:57:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "D:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "D:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAwwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-05T14:44:06.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "D:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "D:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwHAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-05T11:53:25.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
